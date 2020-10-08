@@ -1,9 +1,8 @@
 import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
 
 public class Problem1Test {
-
+    //Timothy Muresan
     // Example test
     // DO NOT CHANGE
     @Test
